@@ -1,0 +1,22 @@
+{
+    "name": "InsporaX",
+    "version": "1.0.0",
+    "description": "Extension for InsporaX",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:lzty634158/pxt-neopixel",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-cn/InsporaX-strings.json",
+        "_locales/zh-tw/InsporaX-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+}
